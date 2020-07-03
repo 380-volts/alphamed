@@ -832,7 +832,6 @@ header .title-info  span {
 ========================================================*/
 #why-choose {
 	background: #ffffff;
-	padding: 80px 0;
 	padding-bottom: 0px;
 }
 #why-choose ul li {
@@ -1918,17 +1917,18 @@ header .title-info  span {
 ========================================================*/
 .make-oppient {
 	padding: 80px 0;
-	background: url(../images/slider-images/patern-bg.png) repeat;
+	background-color: #f0f5f9;
 	padding-bottom: 0px;
 }
 .make-oppient .tittle {
 	width: 100%;
 	margin-top: 0px;
 }
-.make-oppient .tittle h2 {
+.make-oppient h2 {
 	width: 100%;
 	margin-top: 0px;
 	text-align: left;
+	color: #0478be;
 }
 .make-oppient {
 }
@@ -4509,8 +4509,73 @@ footer .timing p span {
 }
 
 
+
+/* Icons section home  */
+
+.row li .icons-clinica {
+	display: flex;
+}
+
+
+
 .icons-alphamed {
 	padding: 70px 0;
 	background: #fff;
 	text-align: center;
+}
+.icons-alphamed img {
+	height: 60px;
+	width: auto;
+}
+
+#clinica-completa {
+	background: #0478be;
+	padding: 75px 0;
+	display: flex;
+	align-items: center;
+}
+#clinica-completa .icons-clinica {
+	display: flex;
+	margin: 5px 0;
+}
+.icons-clinica img {
+	height: 100px;
+	width: auto;
+}
+#clinica-completa .icons-conteudo {
+	margin-left: 20px;
+}
+#clinica-completa p,h6,h3 {
+	color: #fff;
+}
+#clinica-completa h3 {
+	font-weight: 800;
+}
+
+/* Section video consulta  */
+
+.video-consulta {
+	background: #028156;
+	overflow: inherit;
+}
+
+.video-consulta-display {
+	display: flex!important;
+	align-items: center;
+}
+.video-consulta-display img {
+	height: 450px;
+	margin-top: -90px;
+	z-index: 1;
+}
+.video-consulta-display h2 {
+	font-weight: 800;
+	color: #fff;
+}
+.video-consulta-display button {
+	background-color: #0478be;
+}
+.video-consulta-display button:hover {
+	border: 2px solid #fff;
+	color: #fff;
 }
