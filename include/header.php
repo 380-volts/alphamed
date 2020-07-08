@@ -27,11 +27,10 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
+
 </head>
 <body>
 
-<!-- Page Wrap ===========================================-->
-<div id="wrap"> 
   
   <!-- TOP BAR ===========================================-->
   <!-- <div class="top-bar">
@@ -88,17 +87,22 @@
        <!-- MENU BUTTON RESPONSIVE -->
         <div class="menu-toggle"> <i class="fa fa-bars"> </i> </div>
         <ul class="ownmenu">
-          <li><a href="/">Home</a></li>
-          <li><a href="">Quem somos </a></li>
-          <li><a href="">Consultas </a></li>
-          <li><a href="">Exames </a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="sobre.php">Quem somos </a></li>
+          <li><a href="consultas.php">Consultas </a></li>
+          <li><a href="exames.php">Exames </a></li>
           <li><a href="">Blog</a></li>
-          <li><a href="">Contato</a></li>
+          <li><a href="contato.php">Contato</a></li>
+          <li>
+            <div class="buttons-nav">
+            <button><a href="/">Vídeo consulta</a></button>
+            <button><a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank">Agendar consulta presencial</a></button>
+            </div>
+          </li>
         </ul>
-        <div class="buttons-nav">
-          <button><a href="/">Vídeo consulta</a></button>
-          <button><a href="/">Agendar consulta presencial</a></button>
-        </div>
+        
       </div>
     </nav>
   </header>
+
+  

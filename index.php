@@ -3,7 +3,7 @@
   <!--======= BANNER =========-->
   <div id="banner" class="full-screen">
     <div class="main-bnr">
-      <div class="container-fluid">
+      <div class="container">
         <div class="row">
           <div class="col-md-6 no-padding"> 
             
@@ -60,7 +60,7 @@
                 <img src="./images/icons/profissionais.png" alt="">
                 <div class="icons-conteudo">
                   <h6>Profissionais</h6>
-                  <p>Médicos altamentes capacitados, com horários flexíveis,  com atendimento humanizado. </p>
+                  <p>Médicos altamente capacitados, com horários flexíveis e atendimento humanizado. </p>
                 </div>
               </li>
               <!-- Section -->
@@ -68,14 +68,14 @@
                 <img src="./images/icons/praticidade.png" alt="">
                 <div class="icons-conteudo">
                   <h6>Práticidade</h6>
-                  <p>São mais de 20 médicos prontos para te atender. + de 2.000 pacientes atendidos mensalmente.</p>
+                  <p>São mais de 20 médicos prontos para te atender e mais de 2.000 pacientes atendidos mensalmente.</p>
                 </div>
               </li>
               <li class="col-sm-6 icons-clinica">
                 <img src="./images/icons/completa.png" alt="">
                 <div class="icons-conteudo">
-                  <h6>Completa</h6>
-                  <p>São mais de 10 especialidades unidas em um único local, oferecendo tratamento completo, comodidade e economia de tempo.</p>
+                  <h6>Disponibilidade</h6>
+                  <p>Mais de 10 especialidades e 20 profissionais disponíveis para melhor atendê-lo.</p>
                 </div>
               </li>
             </ul>
@@ -201,121 +201,27 @@
         </div>
       </div>
     </section>
+
+     <!--======= LOCAL =========-->
+
+     <section class="local">
+       <div class="container">
+         <div class="container-local">
+           <div class="mapa">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.1823747429203!2d-46.71064788459676!3d-23.525942084700574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef888053bacdb%3A0x625eaa4e8b048d77!2sR.%20Thom%C3%A9%20de%20Souza%2C%20207%20-%20Lapa%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005079-000!5e0!3m2!1spt-BR!2sbr!4v1594046112033!5m2!1spt-BR!2sbr" width="650" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+           </div>
+           <div class="endereco">
+             <h2> <i class="fa fa-map-marker" aria-hidden="true"></i> Local</h2>
+             <p>AlphaMed - Rua Tomé de Souza, 207 <br> Alto da Lapa - São Paulo/SP | 05079-000 </p>
+           </div>
+         </div>
+       </div>
+     </section>
     
     <!--======= FOUNDER =========-->
-    <section id="founder">
-      <div class="container">
-        <div class="row"> 
-          
-          <!--Tittle-->
-          <div class="col-lg-4 padding-r-80">
-            <div class="tittle">
-              <h2>Our Founders</h2>
-            </div>
-            <p>Claritas est etiam processus dynamicus,  lectorum. Mirum est notare quam est notare quam littera. Eodem modo typi, qui nunc nobis clari.</p>
-            <br>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam ut laoreet.</p>
-          </div>
-          
-          <!--======= founder sliders =========-->
-          <div class="col-lg-8">
-            <div class="founder-slide"> 
-              
-              <!-- Slider 1 -->
-              <div class="slide"> <img class="img-responsive" src="images/founder-1.jpg" alt="">
-                <h4>Dr. Forest Aalderink</h4>
-                <p>Clinic president</p>
-              </div>
-              
-              <!-- Slider 2 -->
-              <div class="slide"> <img class="img-responsive" src="images/founder-2.jpg" alt="">
-                <h4>Dr. Bryce Butler</h4>
-                <p>Clinic president</p>
-              </div>
-              
-              <!-- Slider 3 -->
-              <div class="slide"> <img class="img-responsive" src="images/founder-1.jpg" alt="">
-                <h4>Dr. Bryce Butler</h4>
-                <p>Clinic president</p>
-              </div>
-              
-              <!-- Slider 4 -->
-              <div class="slide"> <img class="img-responsive" src="images/founder-2.jpg" alt="">
-                <h4>Dr. Bryce Butler</h4>
-                <p>Clinic president</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     
     
     <!--======= TESTIMONIALS =========-->
-    <section class="testimonials">
-      <div class="container">
-        <div class="row"> 
-          
-          <!-- Video Section -->
-          <div class="col-md-8">
-            <div class="video">
-              <iframe src="https://player.vimeo.com/video/7449107"></iframe>
-            </div>
-          </div>
-          
-          <!-- Feedback Section -->
-          <div class="col-md-4 padding-l-60">
-            <div class="texti-slide"> 
-              
-              <!-- Slider 1 -->
-              <div class="slide"> 
-                
-                <!-- Media Avatar -->
-                <div class="media-left media-middle"> <img class="media-object" src="images/avatar.jpg" alt=""> </div>
-                <div class="media-body">
-                  <h6>Clare Mitchell</h6>
-                  <span>Web Designer</span> </div>
-                
-                <!-- Text Section -->
-                <div class="text">
-                  <p>Lorem ipsum doltor sit amet, soluta nobiscon sectetuer adipiscing elit, sed diam ut soluta soluta nobiscon sectetuer adipiscing laoreet.</p>
-                </div>
-              </div>
-              
-              <!-- Slider 2 -->
-              <div class="slide"> 
-                
-                <!-- Media Avatar -->
-                <div class="media-left media-middle"> <img class="media-object" src="images/avatar-1.jpg" alt=""> </div>
-                <div class="media-body">
-                  <h6>Clare Mitchell</h6>
-                  <span>CEO Doctor</span> </div>
-                
-                <!-- Text Section -->
-                <div class="text">
-                  <p>Lorem ipsum doltor sit amet,soluta nobiscon sectetuer adipiscing  soluta nobiscon sectetuer adipiscing elit, sed diam ut soluta laoreet.</p>
-                </div>
-              </div>
-              
-              <!-- Slider 3 -->
-              <div class="slide"> 
-                
-                <!-- Media Avatar -->
-                <div class="media-left media-middle"> <img class="media-object" src="images/avatar-2.jpg" alt=""> </div>
-                <div class="media-body">
-                  <h6>M_Adnan A </h6>
-                  <span>Web Designer</span> </div>
-                
-                <!-- Text Section -->
-                <div class="text">
-                  <p> Lorem ipsum doltor sit amet, soluta nobiscon sectetuer adipiscing elit, sed diam ut soluta laoreet.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
     
   </div>
   

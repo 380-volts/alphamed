@@ -129,7 +129,6 @@ section {
 	display: inline-block;
 	padding: 12px 30px;
 	min-width: 200px;
-	margin-top: 15px;
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: bold;
@@ -626,6 +625,12 @@ header .section-logo {
 header .info-contato {
 	display: flex;
 }
+
+@media only screen and (max-width: 945px) {
+	header .info-contato {
+		display: none;
+	}
+}
 header .icon-info {
 	padding: 0 40px;
 }
@@ -673,9 +678,9 @@ header .title-info  span {
 	height: 100%;
 }
 .main-bnr-text {
-	text-align: center;
-	padding: 20%;
-	padding-top: 30%;
+	text-align: start;
+	padding: 5px;
+	padding: 30% 0;
 }
 .main-bnr-text h5 {
 	color: #fff;
@@ -4183,11 +4188,68 @@ ul.countdown li p {
 	color: #028156;
 	font-weight: bold;
 }
+
+
+/* ============================ MAPA ======================== */
+
+.container-local {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+	margin: 35px 0;
+}
+.container-local .endereco {
+	margin: 20px 35px;
+}
+
+@media only screen and (max-width: 900px) {
+	.container-local {
+		flex-direction: column;
+	}
+	.container-local iframe {
+		width: 100%;
+	}
+}
+
+
+/* ================== consultas ====================  */
+
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+	.cards {
+		grid-template-columns: 1fr;
+	}
+	.card-consulta {
+		width: 100%;
+		flex-direction: column!important;
+	}
+	
+}
+
+.card-consulta {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	border: 1px solid #028156;
+	padding: 25px 15px;
+	border-radius: 12px;
+	margin: 10px 0;
+}
+
+
 /*=======================================================
 			Footer
 ========================================================*/
 footer {
-	background: #212121;
+	background: #0478be;
 	position: relative;
 	z-index: 99;
 }
@@ -4212,7 +4274,18 @@ footer p a {
 	color: #f7f7f7;
 }
 footer ul li {
-	margin-bottom: 20px;
+	margin-bottom: 5px;
+}
+footer ul li a {
+	color: #fff;
+}
+.social-icons {
+	display: flex;
+	justify-content: center;
+	margin: 10px 0;
+}
+.social-icons li a {
+	color: #fff;
 }
 footer span {
 	color: #028156;
@@ -4312,12 +4385,13 @@ footer .timing p span {
 	color: #757575;
 }
 .rights {
-	background: #1b1b1b;
+	background: #036daa;
 	text-align: center;
 	padding: 20px 0;
 }
 .rights p {
 	margin: 0px;
+	color: #fff;
 }
 /*=======================================================
 			Slider nav style
@@ -4533,6 +4607,7 @@ footer .timing p span {
 	padding: 75px 0;
 	display: flex;
 	align-items: center;
+	width: 100%;
 }
 #clinica-completa .icons-clinica {
 	display: flex;
