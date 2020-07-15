@@ -67,16 +67,16 @@
             <span>Telefone</span>
             
           </div>
-            <p>11 909873</p>
-            <p>11 909873</p>
+            <p> (11) 3831-0713</p>
+            <p> (11) 3641-2323</p>
         </div>
         <div class="icon-info">
           <div class="title-info">
             <i class="fa fa-clock-o" aria-hidden="true"></i>
             <span>Funcionamento</span>
           </div>
-            <p>Seg a Sexta das 08h às 17h</p>
-            <p>Seg a Sexta das 08h às 17h</p>
+            <p>Segunda à Sexta das 08:00 às 17:00 </p>
+            <p>Sábado das 08:00 às 12:00</p>
         </div>
       </div>
     </div>
@@ -91,11 +91,12 @@
           <li><a href="sobre.php">Quem somos </a></li>
           <li><a href="consultas.php">Consultas </a></li>
           <li><a href="exames.php">Exames </a></li>
+          <li><a href="convenios.php">Convenios </a></li>
           <li><a href="">Blog</a></li>
           <li><a href="contato.php">Contato</a></li>
           <li>
             <div class="buttons-nav">
-            <button><a href="/">Vídeo consulta</a></button>
+            <!-- <button><a href="/">Vídeo consulta</a></button> -->
             <button><a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank">Agendar consulta presencial</a></button>
             </div>
           </li>

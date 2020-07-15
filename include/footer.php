@@ -48,9 +48,8 @@
 
         <div class="col-md-12 social-icons">
         <ul class="social_icons">
-              <li class="facebook"><a href="#."><i class="fa fa-facebook"></i> </a></li>
-              <li class="twitter"><a href="#."><i class="fa fa-twitter"></i> </a></li>
-              <li class="linkedin"><a href="#."><i class="fa fa-linkedin"></i> </a></li>
+              <li class="facebook"><a href="https://www.facebook.com/AlphamedClinica/?ref=br_rs" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+              <li class="instagram"><a href="https://www.instagram.com/clinicaalphamed/" target="_blank"><i class="fa fa-instagram"></i> </a></li>
             </ul>
         </div>
       </div>

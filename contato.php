@@ -78,6 +78,8 @@
             <div class="timing">
               
               <p>Segunda a Sexta <span> 8h às 18h</span></p>
+              <p>Segunda à Sexta <span>das 08:00 às 17:00</span> </p>
+            <p>Sábado <span>das 08:00 às 12:00</span></p>
             </div>
             
             <!-- Follow Us -->
@@ -93,13 +95,7 @@
         </div>
       </div>
     </div>
-    
-    
-        <!--======= GOOGLE MAP =========-->
-        <div id="map" class="g_map">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.1823747429203!2d-46.71064788459676!3d-23.525942084700574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef888053bacdb%3A0x625eaa4e8b048d77!2sR.%20Thom%C3%A9%20de%20Souza%2C%20207%20-%20Lapa%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005079-000!5e0!3m2!1spt-BR!2sbr!4v1594060615884!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-        </div>
-    
+
     <!--======= Contact Info =========-->
     <section class="contact-info">
       <div class="container"> 
@@ -126,6 +122,14 @@
         </ul>
       </div>
     </section>
+    
+    
+        <!--======= GOOGLE MAP =========-->
+        <div id="map" class="g_map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3658.1823747429203!2d-46.71064788459676!3d-23.525942084700574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef888053bacdb%3A0x625eaa4e8b048d77!2sR.%20Thom%C3%A9%20de%20Souza%2C%20207%20-%20Lapa%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2005079-000!5e0!3m2!1spt-BR!2sbr!4v1594060615884!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        </div>
+    
+    
   </div>
   
   <!--======= FOOTER =========-->

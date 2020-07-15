@@ -4228,20 +4228,38 @@ ul.countdown li p {
 	}
 	.card-consulta {
 		width: 100%;
-		flex-direction: column!important;
+		align-items: center!important;
+	}
+
+	.buttons-consulta span {
+		padding: 20px!important;
+		font-size: 20px;
+	}
+	.buttons-consulta {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
 	}
 	
 }
 
 .card-consulta {
 	display: flex;
-	flex-direction: row;
-	align-items: center;
+	flex-direction: column;
+	align-items: flex-start;
 	justify-content: space-between;
 	border: 1px solid #028156;
 	padding: 25px 15px;
 	border-radius: 12px;
 	margin: 10px 0;
+}
+.buttons-consulta span {
+	color: #028156;
+	font-weight: 700;
+	padding: 0 30px;
+	font-size: 15px;
+	cursor: pointer;
+
 }
 
 
@@ -4653,4 +4671,21 @@ footer .timing p span {
 .video-consulta-display button:hover {
 	border: 2px solid #fff;
 	color: #fff;
+}
+
+/* Convenios */
+
+section .cards-logos{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	margin: 20px 0;
+}
+
+@media only screen and (max-width: 940px) {
+	section .cards-logos {
+		grid-template-columns: 1fr;
+	}
+	section .logo-item img {
+		width: 100%;
+	}
 }

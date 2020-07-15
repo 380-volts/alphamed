@@ -212,7 +212,11 @@
            </div>
            <div class="endereco">
              <h2> <i class="fa fa-map-marker" aria-hidden="true"></i> Local</h2>
-             <p>AlphaMed - Rua Tomé de Souza, 207 <br> Alto da Lapa - São Paulo/SP | 05079-000 </p>
+             <ul>
+              <li><i class="fa fa-map-marker"></i>Rua Tomé de Souza, 207 - Alto da Lapa <br> São Paulo / SP - CEP: 05079-000</li>
+              <li><i class="fa fa-envelope"></i>contato@clinicaalphamed.com.br</li>
+              <li><i class="fa fa-phone"></i>11 3831.0713 / 11 3641.2323</li>
+             </ul>
            </div>
          </div>
        </div>
