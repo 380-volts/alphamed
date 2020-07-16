@@ -4680,6 +4680,16 @@ section .cards-logos{
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	margin: 20px 0;
 }
+section .cards-logos .logo-item {
+	display: flex;
+	align-items: center;
+	margin: 15px;
+}
+section .cards-logos .logo-item img {
+	width: 100%;
+	height: auto;
+	margin: 10px;
+}
 
 @media only screen and (max-width: 940px) {
 	section .cards-logos {

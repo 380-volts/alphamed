@@ -114,7 +114,7 @@
         <div class="card-consulta">
             <div class="especialidade-info">
             <h4>Otorrinolaringologia</h4>
-            <p>O otorrinolaringologista é o médico responsável por tratar das doenças ligadas ao ouvido, ao nariz e à garganta.</p>
+            <p>O otorrinolaringologista é o médico responsável por tratar das doenças ligadas ao ouvido, ao nariz e a garganta.</p>
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 125,00' ">Ver Valor</span>
