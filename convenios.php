@@ -38,9 +38,6 @@
             <img src="images/convenios/clubedesaudeonline.png" alt="">
         </div>
         <div class="logo-item">
-            <img src="images/convenios/cruzazulsaude.png" alt="">
-        </div>
-        <div class="logo-item">
             <img src="images/convenios/gamasaude.jpg" alt="">
         </div>
         <div class="logo-item">
@@ -51,9 +48,6 @@
         </div>
         <div class="logo-item">
             <img src="images/convenios/intermedicanotredame.png" alt="">
-        </div>
-        <div class="logo-item">
-            <img src="images/convenios/meutem.png" alt="">
         </div>
         <div class="logo-item">
             <img src="images/convenios/omint.png" alt="">
@@ -105,6 +99,12 @@
         </div>
         <div class="logo-item">
             <img src="images/convenios/vidaclass.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/mudi.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/viva10.png" alt="">
         </div>
 
 
