@@ -106,6 +106,15 @@
         <div class="logo-item">
             <img src="images/convenios/viva10.png" alt="">
         </div>
+        <div class="logo-item">
+            <img src="images/convenios/nipomed.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/doctor-saude.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/hpgs.png" alt="">
+        </div>
 
 
         
