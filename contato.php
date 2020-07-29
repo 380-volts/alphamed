@@ -35,11 +35,11 @@
               
               <!--======= FORM  =========-->
               <div id="contact_message" class="success-msg"> <i class="fa fa-paper-plane-o"></i>Thank You. Your Message has been Submitted</div>
-            <form role="form" id="contact_form" class="contact-form" method="post" onSubmit="return false">
+            <form role="form" id="contact_form" class="contact-form" method="post" action="envia_contato.php">
               <ul class="row">
                 <li class="col-sm-6">
                   <label>Nome *
-                    <input type="text" class="form-control" name="name" id="name" placeholder="">
+                    <input type="text" class="form-control" name="nome" id="name" placeholder="">
                   </label>
                 </li>
                 <li class="col-sm-6">
@@ -63,7 +63,7 @@
                   </label>
                 </li>
                 <li class="col-sm-12">
-                  <button type="submit" value="submit" class="btn" id="btn_submit" onClick="proceed();">Enviar</button>
+                  <button type="submit" value="submit" class="btn" id="btn_submit" >Enviar</button>
                 </li>
               </ul>
             </form>
@@ -76,19 +76,16 @@
           <h4>Horário de funcionamento</h4>
           	<!-- Timing -->
             <div class="timing">
-              
-              <p>Segunda a Sexta <span> 8h às 18h</span></p>
-              <p>Segunda à Sexta <span>das 08:00 às 17:00</span> </p>
-            <p>Sábado <span>das 08:00 às 12:00</span></p>
+              <p>Segunda a Sexta <span>das 08:00 às 17:00</span> </p>
+              <p>Sábado <span>das 08:00 às 12:00</span></p>
             </div>
             
             <!-- Follow Us -->
              <h4>Nos siga</h4>
             
             <ul class="social_icons">
-              <li class="facebook"><a href="#."><i class="fa fa-facebook"></i> </a></li>
-              <li class="twitter"><a href="#."><i class="fa fa-instagram"></i> </a></li>
-              <li class="linkedin"><a href="#."><i class="fa fa-linkedin"></i> </a></li>
+              <li class="facebook"><a href="https://www.facebook.com/AlphamedClinica/?ref=br_rs" target="_blank"><i class="fa fa-facebook"></i> </a></li>
+              <li class="twitter"><a href="https://www.instagram.com/clinicaalphamed/" target="_blank"><i class="fa fa-instagram"></i> </a></li>
 
             </ul>
           </div>

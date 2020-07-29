@@ -31,13 +31,9 @@
                 
                 <li class="row">
                   <div class="col-md-12">
-                  A Clínica Alpha foi criada em 1986 com a missão de dar um atendimento de qualidade
-                  e humanizado. Com mais de 30 anos no mercado, pensamos sempre na saúde e bem-
-                  estar de todos os pacientes, oferecendo uma estrutura completa, acessível e um corpo
-                  clínico com alto grau de especialização. <br><br>
-                  Uma clínica completa, pronta para atender você e sua família! Cuidar da sua saúde é
-                  nossa maior especialidade. Nossa equipe médica é altamente capacitada para oferecer
-                  atendimento completo e humanizado.
+                  A Clínica Alphamed foi criada em 1986 com a missão de oferecer um atendimento de qualidade e humanizado. Com mais de 30 anos no mercado, pensamos sempre na saúde e bem-estar de todos os pacientes, oferecendo uma estrutura completa, acessível e um corpo clínico com alto grau de especialização. <br><br>
+
+                  Uma clínica completa, pronta para atender você e sua família! Cuidar da sua saúde é nossa maior especialidade. Nossa equipe médica é altamente capacitada para oferecer atendimento completo e humanizado.
                   </div>
                 </li>
                 
@@ -55,20 +51,20 @@
           <ul class="row">
             
             <!--======= PROPOSALS SENT =========-->
-            <li class="col-sm-3"> <i class="fa fa-smile-o"></i> <span class="count1">9501</span>
+            <li class="col-sm-3"> <i class="fa fa-smile-o"></i> <span class="count1">100000</span>
               <p>Pacientes atendidos</p>
             </li>
             
             <!--======= PROPOSALS SENT =========-->
-            <li class="col-sm-3"> <i class="fa fa-bed"></i> <span class="count2">12</span>
+            <li class="col-sm-3"> <i class="fa fa-bed"></i> <span class="count2">5</span>
               <p>Consultórios</p>
             </li>
             
             <!--======= AWARDS WON =========-->
-            <li class="col-sm-3"> <i class="fa fa-user-md"></i> <span class="count3">20</span>
+            <li class="col-sm-3"> <i class="fa fa-user-md"></i> <span class="count3">25</span>
               <p>Médicos</p>
             </li>
-            <li class="col-sm-3"> <i class="fa fa-ambulance"></i> <span class="count4">13</span>
+            <li class="col-sm-3"> <i class="fa fa-ambulance"></i> <span class="count4">15</span>
               <p>Especialidades médicas</p>
             </li>
           </ul>
@@ -93,7 +89,7 @@
             <div class="services-slide"> 
               
               <!-- Slider 1 -->
-              <div class="slide sec-ser"> <i class="fa fa-tint"></i>
+              <div class="slide sec-ser"> <i class="fa fa-user-md"></i>
                 <h6>Consultas</h6>
                 <p>São mais de 10 especialidades médicas para você realizar as suas consultas. </p>
               </div>
@@ -105,7 +101,7 @@
               </div>
               
               <!-- Slider 2 -->
-              <div class="slide sec-ser"> <i class="fa fa-wheelchair"></i>
+              <div class="slide sec-ser"> <i class="fa fa-phone"></i>
                 <h6>Teleconsulta</h6>
                 <p>Realize suas consultas médicas sem precisar sair de casa. Consulte seu médico direto do seu celular.</p>
               </div>

@@ -67,7 +67,7 @@
               <li class="col-sm-6 icons-clinica">
                 <img src="./images/icons/praticidade.png" alt="">
                 <div class="icons-conteudo">
-                  <h6>Práticidade</h6>
+                  <h6>Praticidade</h6>
                   <p>São mais de 20 médicos prontos para te atender e mais de 2.000 pacientes atendidos mensalmente.</p>
                 </div>
               </li>
@@ -118,12 +118,22 @@
                   <li class="col-sm-6">
                     <select class="form-control selectpicker" name="select1" id="select1">
                       <option selected>Especialidade</option>
-                      <option>Dental</option>
-                      <option>Cardiology</option>
-                      <option>For disabled</option>
-                      <option>Ophthalmology</option>
-                      <option>Emergency</option>
-                      <option>X-ray</option>
+                      <option>Cardiologia</option>
+                      <option>Clínico Geral</option>
+                      <option>Dermatologia</option>
+                      <option>Cirufgia Vascular</option>
+                      <option>Endocrinologia</option>
+                      <option>Endocrinologia Pediátrica</option>
+                      <option>Gastroenterologia</option>
+                      <option>Ginecologia</option>
+                      <option>Obstetricia</option>
+                      <option>Otorrinolaringologia</option>
+                      <option>Pediatria</option>
+                      <option>Nutrição</option>
+                      <option>Nutrição Pediatrica</option>
+                      <option>Nutrologia</option>
+                      <option>Urologia</option>
+
                     </select>
                   </li>
                   <li class="col-sm-6">
@@ -181,7 +191,7 @@
           <li class="col-md-3"> 
             <img src="./images/icons/tradicao/calendar.png" alt="">
             <h5>Disponibilidade</h5>
-            <p>Mais de 10 especialidades e 20 profissionais disponíveis para melhor atende-lo </p>
+            <p>Mais de 10 especialidades e 20 profissionais disponíveis para melhor atendê-lo. </p>
           </li>
         </ul>
       </div>
@@ -204,7 +214,7 @@
 
      <!--======= LOCAL =========-->
 
-     <section class="local">
+     <section class="local" id="local">
        <div class="container">
          <div class="container-local">
            <div class="mapa">

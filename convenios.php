@@ -17,8 +17,8 @@
 
   <section class="consultas">
     <div class="container">
-      <h2>Convenios</h2>
-      <p>Trabalhamos com as principais operadoras do Brasil para melhor atende-lo.
+      <h2>Convênios</h2>
+      <p>Trabalhamos com as principais operadoras do Brasil para melhor atendê-lo.
       Importante: Confirme com a nossa central de atendimento se o seu convênio ou categoria do plano atende ao serviço solicitado.</p>
 
       <section class="cards-logos">
@@ -62,7 +62,7 @@
             <img src="images/convenios/clubsaude.png" alt="">
         </div>
         <div class="logo-item">
-            <img src="images/convenios/cruzazul.png" alt="">
+            <img src="images/convenios/cruzazulsaude.png" alt="">
         </div>
         <div class="logo-item">
             <img src="images/convenios/doctor-prime.png" alt="">

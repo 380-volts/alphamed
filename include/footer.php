@@ -16,8 +16,8 @@
           <div class="latest-tweet">
             <h5>Serviços</h5>
             <ul>
-              <li><a href="">Consultas</a></li>
-              <li><a href="">Exames</a></li>
+              <li><a href="consultas.php">Consultas</a></li>
+              <li><a href="exames.php">Exames</a></li>
             </ul>
           </div>
         </div>
@@ -26,9 +26,8 @@
           <div class="latest-tweet">
             <h5>AlphaMed</h5>
             <ul>
-              <li><a href="">Unidade</a></li>
-              <li><a href="">Especialidade</a></li>
-              <li><a href="">Mapa do site</a></li>
+              <li><a href="#local">Unidade</a></li>
+              <li><a href="consultas.php">Especialidade</a></li>
             </ul>
           </div>
         </div>

@@ -4,9 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AlphaMed</title>
-<meta name="keywords" content="HTML5,CSS3,HTML,Template,Multi-Purpose,M_Adnan,Corporate Theme,Medikal,Health Care,Medikal - Health Care & Medical HTML5 Template">
-<meta name="description" content="Medikal - Health Care & Medical HTML5 Template">
-<meta name="author" content="M_Adnan">
+<meta name="description" content="Uma clínica completa, pronta para atender você e sua família! Cuidar da sua saúde é nossa maior especialidade. Nossa equipe médica é altamente capacitada para oferecer atendimento completo e humanizado.">
+<meta name="author" content="AlphaMed">
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
 <!-- FONTS ONLINE -->
@@ -75,23 +74,27 @@
             <i class="fa fa-clock-o" aria-hidden="true"></i>
             <span>Funcionamento</span>
           </div>
-            <p>Segunda à Sexta das 08:00 às 17:00 </p>
+            <p>Segunda a Sexta das 08:00 às 17:00 </p>
             <p>Sábado das 08:00 às 12:00</p>
         </div>
       </div>
     </div>
+
+    
     
     <!--======= NAVIGATION =========-->
     <nav class="webimenu"> 
+    <div class="menu-toggle "> <i class="fa fa-bars"> </i> </div>
+    
       <div class="container display-nav">
        <!-- MENU BUTTON RESPONSIVE -->
-        <div class="menu-toggle"> <i class="fa fa-bars"> </i> </div>
-        <ul class="ownmenu">
+        
+        <ul class="ownmenu ">
           <li><a href="index.php">Home</a></li>
           <li><a href="sobre.php">Quem somos </a></li>
           <li><a href="consultas.php">Consultas </a></li>
           <li><a href="exames.php">Exames </a></li>
-          <li><a href="convenios.php">Convenios </a></li>
+          <li><a href="convenios.php">Convênios </a></li>
           <li><a href="">Blog</a></li>
           <li><a href="contato.php">Contato</a></li>
           <li>

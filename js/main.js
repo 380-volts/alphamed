@@ -284,3 +284,11 @@ function checkmail(input){
 	});
 }};
 
+const toggleMenu = document.querySelector('.menu-toggle')
+const menuVisible = document.querySelector('.display-nav')
+console.log(toggleMenu)
+
+addEventListener("click", function() {
+	menuVisible.classList.add('active')
+})
+

@@ -27,18 +27,18 @@
           </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 145,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
             
           </div>
         </div>
         <div class="card-consulta">
             <div class="especialidade-info">
             <h4>Cirurgia Vascular</h4>
-            <p>O cirurgião vascular é o especialista que se dedica aos cuidados clínicos das doenças que atingem os vasos sanguíneos e linfáticos, intervindo cirurgicamente para tratar dessas doenças.realizando tratamentos com mudanças de hábitos, alimentação e medicamentos.</p>
+            <p>O cirurgião vascular é o especialista que se dedica aos cuidados clínicos das doenças que atingem os vasos sanguíneos e linfáticos, intervindo cirurgicamente para tratar dessas doenças, realizando tratamentos com mudanças de hábitos, alimentação e medicamentos.</p>
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 120,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -48,7 +48,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 110,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -58,7 +58,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 125,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -68,7 +68,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 140,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -78,7 +78,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 160,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -88,27 +88,17 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 125,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
             <div class="especialidade-info">
-            <h4>Ginecologia e Obstetricia</h4>
+            <h4>Ginecologia e Obstetrícia</h4>
             <p>A ginecologia é a especialidade médica que trata da saúde da mulher e é voltada para entender e estudar o sistema reprodutor feminino (útero, ovários e vagina). Já a obstetrícia cuida da gestação, o parto e o período pós-parto.</p>
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 150,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
-          </div>
-        </div>
-        <div class="card-consulta">
-            <div class="especialidade-info">
-            <h4>Ginecologia</h4>
-            <p>A ginecologia é a especialidade médica que trata da saúde da mulher e é voltada para entender e estudar o sistema reprodutor feminino (útero, ovários e vagina).</p>
-            </div>
-          <div class="buttons-consulta">
-            <span onClick="this.innerHTML='R$ 120,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -118,7 +108,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 125,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -128,7 +118,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 140,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
 
@@ -139,7 +129,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 100,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -149,7 +139,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 150,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -159,7 +149,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 200,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
         <div class="card-consulta">
@@ -169,7 +159,7 @@
             </div>
           <div class="buttons-consulta">
             <span onClick="this.innerHTML='R$ 120,00' ">Ver Valor</span>
-            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn">Agendar Agora</button></a>
+            <a href="https://www.clinnet.com.br/agendaweb/login.php?empresa=ALPHA" target="_blank"><button class="btn btn-consulta">Agendar Agora</button></a>
           </div>
         </div>
       </div>
