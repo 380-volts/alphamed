@@ -23,16 +23,40 @@
 
       <section class="cards-logos">
         <div class="logo-item">
+            <img src="images/convenios/centralnacionalunimed.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/intermedicanotredame.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/notredameGreen.png" alt="">
+        </div>
+        <div class="logo-item">
             <img src="images/convenios/Ameplan.jpg" alt="">
         </div>
         <div class="logo-item">
             <img src="images/convenios/biosaude.jpg" alt="">
         </div>
         <div class="logo-item">
-            <img src="images/convenios/cartaoopenline.png" alt="">
+            <img src="images/convenios/cruzazulsaude.png" alt="">
         </div>
         <div class="logo-item">
-            <img src="images/convenios/centralnacionalunimed.png" alt="">
+            <img src="images/convenios/gamasaude.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/totalMedcare.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/omint.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/plasac.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/unihosp.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/cartaoopenline.png" alt="">
         </div>
         <div class="logo-item">
             <img src="images/convenios/clubedesaudeonline.png" alt="">
@@ -47,12 +71,6 @@
             <img src="images/convenios/greenlinesaude.png" alt="">
         </div>
         <div class="logo-item">
-            <img src="images/convenios/intermedicanotredame.png" alt="">
-        </div>
-        <div class="logo-item">
-            <img src="images/convenios/omint.png" alt="">
-        </div>
-        <div class="logo-item">
             <img src="images/convenios/unimedfesp.png" alt="">
         </div>
         <div class="logo-item">
@@ -61,9 +79,7 @@
         <div class="logo-item">
             <img src="images/convenios/clubsaude.png" alt="">
         </div>
-        <div class="logo-item">
-            <img src="images/convenios/cruzazulsaude.png" alt="">
-        </div>
+        
         <div class="logo-item">
             <img src="images/convenios/doctor-prime.png" alt="">
         </div>
@@ -73,9 +89,7 @@
         <div class="logo-item">
             <img src="images/convenios/evo.jpg" alt="">
         </div>
-        <div class="logo-item">
-            <img src="images/convenios/gamasaude.png" alt="">
-        </div>
+        
         <div class="logo-item">
             <img src="images/convenios/global-saude.png" alt="">
         </div>
@@ -86,16 +100,7 @@
             <img src="images/convenios/logo-uniprev.jpg" alt="">
         </div>
         <div class="logo-item">
-            <img src="images/convenios/plasac.png" alt="">
-        </div>
-        <div class="logo-item">
             <img src="images/convenios/tem-saude.png" alt="">
-        </div>
-        <div class="logo-item">
-            <img src="images/convenios/totalMedcare.png" alt="">
-        </div>
-        <div class="logo-item">
-            <img src="images/convenios/unihosp.png" alt="">
         </div>
         <div class="logo-item">
             <img src="images/convenios/vidaclass.png" alt="">
@@ -114,6 +119,9 @@
         </div>
         <div class="logo-item">
             <img src="images/convenios/hpgs.png" alt="">
+        </div>
+        <div class="logo-item">
+            <img src="images/convenios/cartao-saude.png" alt="">
         </div>
 
 

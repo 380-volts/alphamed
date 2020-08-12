@@ -166,8 +166,6 @@ section {
 	border-bottom: 1px solid red !important;
 	border-left: 1px solid red !important;
 }
-.btn.focus, .btn:focus, .btn:hover {
-}
 /*=======================================================
 			MARGIN 20px
 ========================================================*/
@@ -269,8 +267,6 @@ section {
 	line-height: 55px;
 	width: 50%;
 }
-.tittle-2 {
-}
 .tittle-2 h3 {
 	font-weight: bold;
 	text-transform: uppercase;
@@ -341,7 +337,6 @@ section {
 	color: #fff;
 }
 .top-bar .social_icons {
-	float: right;
 	margin-top: 5px;
 }
 .top-bar .social_icons a {
@@ -385,13 +380,11 @@ header {
 }
 header .logo {
 	display: inline-block;
-	float: left;
 	text-align: center;
 	margin: 18px 0;
 }
 header nav {
 	display: inline-block;
-	float: right;
 	position: relative;
 	z-index: 999;
 	min-height: 60px;
@@ -405,7 +398,6 @@ header nav li a {
 	line-height: 20px;
 	text-transform: uppercase;
 	color: #696969;
-	float: left;
 	letter-spacing: 0px;
 	font-size: 14px;
 	font-weight: bold;
@@ -418,14 +410,12 @@ header nav .ownmenu .indicator {
 header nav li a:hover {
 	color: #51a8da;
 }
-header nav li {
-}
+
 header .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	background: #ffdd00;
 	color: #222222;
 }
-.ownmenu > li:hover > a, .ownmenu > li.active > a {
-}
+
 header .ownmenu ul.dropdown {
 	padding-bottom: 0px;
 	background: #fff;
@@ -447,8 +437,6 @@ header .ownmenu ul.dropdown li a:hover {
 	background: #51a8da;
 	color: #fff;
 }
-header .ownmenu ul.dropdown li:nth-last-child(1) a {
-}
 .ownmenu > li:hover > a, .ownmenu > li.active > a {
 	color: #51a8da;
 }
@@ -461,7 +449,6 @@ header .ownmenu ul.dropdown li:nth-last-child(1) a {
 	width: 100%;
 }
 .nav-post .nav-text {
-	float: right;
 	width: 73%;
 }
 .ownmenu li > .megamenu a {
@@ -472,13 +459,9 @@ header .ownmenu ul.dropdown li:nth-last-child(1) a {
 	padding: 9px 0;
 	padding-left: 15px;
 }
-.ownmenu li > .megamenu li:hover {
-}
 .ownmenu li > .megamenu li a:hover {
 	background: #51a8da;
 	color: #fff;
-}
-ul.dropdown {
 }
 ul.dropdown li {
 	padding: 0px;
@@ -521,9 +504,6 @@ ul.dropdown li:hover {
 .nav-post li a {
 	padding: 0px;
 	margin: 0px;
-}
-header .btn-right {
-	float: right;
 }
 header .btn-right .btn {
 	background: #303030;
@@ -603,7 +583,6 @@ header nav li a {
 	text-align: left;
 }
 .header-2 nav li a {
-	float: left;
 	float: none;
 	position: relative;
 	font-size: 12px;
@@ -659,8 +638,7 @@ header .title-info  span {
 /*=======================================================
 			BANNER
 ========================================================*/
-#banner {
-}
+
 .main-bnr {
 	background: rgb(103,210,231); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(103,210,231,1) 0%, rgba(67,166,213,1) 100%); /* FF3.6+ */
@@ -772,8 +750,6 @@ header .title-info  span {
 	font-weight: bold;
 	display: inline-block;
 	width: 100%;
-}
-.bnr-2 {
 }
 .bnr-2 {
 	max-height: 650px;
@@ -932,8 +908,7 @@ header .title-info  span {
 	padding: 80px 0;
 	background: #ffffff;
 }
-.offer-services {
-}
+
 .offer-services .nav-tabs {
 	background: #f8f8f8;
 	border: none;
@@ -962,7 +937,6 @@ header .title-info  span {
 	margin-left: 10px;
 	display: none;
 	line-height: 45px;
-	float: right;
 	position: absolute;
 	top: 0px;
 	right: 20px;
@@ -1156,28 +1130,14 @@ header .title-info  span {
 	margin: 0 auto;
 }
 .department .dep-sec-img {
-	float: left;
 	width: 37%;
 }
 .department .dep-sec-txt {
-	float: right;
 	width: 37%;
 	padding: 0 40px;
 }
 .department .dep-sec-nav {
 	width: 26%;
-}
-.department #cardiology {
-}
-.department #for-disabled {
-}
-.department #ophthalmology {
-}
-.department #emergency {
-}
-.department #x-ray {
-}
-.department .tab-content ul li {
 }
 .department .fact {
 	margin-top: 50px;
@@ -1378,15 +1338,12 @@ header .title-info  span {
 	font-size: 12px;
 }
 .dep-detail-page .search button {
-	float: right;
 	border: none;
 	background: none;
 	font-size: 18px;
 	color: #aaaaaa;
 	margin-right: 10px;
 	margin-top: -33px;
-}
-.dep-detail-page .dapart {
 }
 .side-bar h5 {
 	text-transform: uppercase !important;
@@ -1403,7 +1360,6 @@ header .title-info  span {
 	width: 100%;
 }
 .side-bar .cate li {
-	float: left;
 	width: 50%;
 	padding-left: 15px;
 	line-height: 44px;
@@ -1424,7 +1380,6 @@ header .title-info  span {
 	left: 0px;
 	display: inline-block;
 	margin-right: 10px;
-	float: left;
 	position: absolute;
 	margin-top: 20px;
 }
@@ -1519,7 +1474,6 @@ header .title-info  span {
 }
 .depart-style-2 .nav-tabs {
 	padding: 0px;
-	float: left;
 }
 .depart-style-2 .nav-tabs li a {
 	letter-spacing: 0px;
@@ -1551,8 +1505,6 @@ header .title-info  span {
 }*/
 .tables-all ul {
 	background: #fff;
-}
-.shifts {
 }
 .time-table .days-avai {
 	position: relative;
@@ -1653,7 +1605,6 @@ header .title-info  span {
 }
 .time-table .days {
 	width: 10%;
-	float: left;
 	padding: 30px 0;
 	text-align: center;
 	background: #f7f7f7;
@@ -1741,8 +1692,6 @@ header .title-info  span {
 	position: relative;
 	padding: 10px 20px;
 }
-.contact-form {
-}
 #map {
 	height: 440px;
 	margin-bottom: 0px;
@@ -1766,7 +1715,6 @@ header .title-info  span {
 .contact .timing p span {
 	margin-left: 10px;
 	color: #757575;
-	float: right;
 }
 /*=======================================================
 			TEAM
@@ -1935,8 +1883,6 @@ header .title-info  span {
 	text-align: left;
 	color: #0478be;
 }
-.make-oppient {
-}
 .make-oppient form {
 	padding: 25px;
 	background: #0478be;
@@ -1992,10 +1938,7 @@ header .title-info  span {
 .about-us .time-line li div {
 	position: relative;
 }
-.about-us .time-line li h3:before {
-}
-.about-us .about-bg {
-}
+
 .about-us .time-line:before {
 	position: absolute;
 	left: 0px;
@@ -2060,8 +2003,6 @@ header .title-info  span {
 /*=======================================================
 			GALLERY
 ========================================================*/
-.gallery {
-}
 .gallery ul {
 	position: relative;
 	display: inline-block;
@@ -2071,7 +2012,6 @@ header .title-info  span {
 	padding: 0px;
 	position: relative;
 	overflow: hidden;
-	float: left;
 	display: inline-block;
 }
 .gallery li img {
@@ -2192,8 +2132,6 @@ header .title-info  span {
 .gallery-pages .gallery-item li:hover .item-over {
 	opacity: 1;
 }
-.gallery-pages .gallery-item li:hover .item-in {
-}
 .gallery-pages .item {
 	margin-bottom: 30px;
 }
@@ -2307,8 +2245,6 @@ header .title-info  span {
 .post-img img {
 	display: inline-block;
 }
-.post-img i {
-}
 .post-section article .post-img img {
 	-moz-transition: -moz-transform 0.4s ease-in;
 	-webkit-transition: -webkit-transform 0.4s ease-in;
@@ -2389,9 +2325,6 @@ header .title-info  span {
 .single-post .stare-ev ul {
 	margin-bottom: 0px !important;
 }
-.single-post .stare-ev .tags {
-	float: left;
-}
 .single-post .stare-ev .tags h5 {
 	margin-top: 10px;
 }
@@ -2412,14 +2345,12 @@ header .title-info  span {
 }
 .single-post .social_icons {
 	margin-top: 0px;
-	float: right;
 }
 .single-post .social_icons li {
 	background: #f7f7f7;
 	border-radius: 50%;
 	margin-right: 2px;
 	margin-top: 0px;
-	float: left;
 	background: #f7f7f7;
 }
 .single-post .social_icons li a {
@@ -2471,14 +2402,11 @@ header .title-info  span {
 .shortcodes h3 {
 	margin-bottom: 50px;
 }
-#accordion {
-}
 #accordion .panel-default > .panel-heading .panel-title a:before {
 	content: "\f462";
 	font-family: "Ionicons";
 	padding: 0px;
 	color: #323232;
-	float: right;
 	font-size: 26px;
 	padding: 0px 15px;
 	font-weight: 100;
@@ -2539,8 +2467,6 @@ header .title-info  span {
 #accordion .collapsed {
 	color: #222222 !important;
 }
-#accordion .collapsed .icon-accor {
-}
 #accordion .panel-group .panel {
 	border-radius: 0px;
 }
@@ -2550,10 +2476,7 @@ header .title-info  span {
 /*=======================================================
 			TAB SECTION STYLE
 ========================================================*/
-.tabs-style-cods {
-}
-.tabs-style-cods {
-}
+
 .tabs-style-cods p {
 	line-height: 26px;
 }
@@ -2633,8 +2556,6 @@ header .title-info  span {
 	height: 75px;
 	width: 75px;
 }
-.comments .media-body {
-}
 .comments .media-body h6 {
 	margin: 0px;
 }
@@ -2644,7 +2565,6 @@ header .title-info  span {
 	margin-left: 20px;
 }
 .comments .media-body a {
-	float: right;
 	margin-top: -20px;
 }
 .comments .media-body img {
@@ -2757,7 +2677,6 @@ header .title-info  span {
 	text-align: center;
 	line-height: 30px;
 	font-size: 16px;
-	float: left;
 	margin-top: 20px;
 }
 /*=======================================================
@@ -2787,7 +2706,6 @@ header .title-info  span {
 	border-radius: 50%;
 }
 .admin-info .social_icons {
-	float: left;
 	margin-top: 10px;
 }
 .admin-info h5 {
@@ -2855,7 +2773,6 @@ header .title-info  span {
 	line-height: 34px;
 	height: 42px;
 	width: 50px;
-	float: right;
 	text-align: center;
 	font-weight: 600;
 	padding: 0px;
@@ -2864,7 +2781,6 @@ header .title-info  span {
 	color: #8e0c34;
 }
 .progress-bar h6 {
-	float: left;
 	padding-left: 20px;
 	margin: 0px;
 	font-weight: bold;
@@ -2874,7 +2790,6 @@ header .title-info  span {
 	border-radius: 50px;
 	position: relative;
 	background: rgba(255,255,255,0.3);
-	float: left;
 	margin-bottom: 20px;
 	  width: 100%;
 	  height: 40px;
@@ -2926,8 +2841,6 @@ header .title-info  span {
 	top: 0px;
 	left: 0px;
 }
-.testimonials .texti-slide {
-}
 .testimonials .video iframe {
 	width: 100%;
 	border: none;
@@ -2937,7 +2850,6 @@ header .title-info  span {
 .testimonials .avatar {
 	height: 121px;
 	width: 121px;
-	float: left;
 	border-radius: 100%;
 	position: relative;
 	overflow: hidden;
@@ -2954,7 +2866,6 @@ header .title-info  span {
 .testimonials .media-left img {
 	height: 121px;
 	width: 121px;
-	float: left;
 	border-radius: 100%;
 	position: relative;
 	overflow: hidden;
@@ -3011,14 +2922,10 @@ header .title-info  span {
 	padding: 120px 0;
 	background: rgba(67,166,216,0.85);
 }
-.testi-mian {
-}
 .crosal-slide {
 	position: relative;
 	width: 70%;
 	margin: 0 auto;
-}
-.images-slide {
 }
 .crosal-slide .carousel-inner {
 	text-align: center;
@@ -3188,7 +3095,6 @@ header .title-info  span {
 	display: inline-block;
 	height: 60px;
 	width: 60px;
-	float: left;
 	overflow: hidden;
 }
 #prople-says .testi-slide .avatar {
@@ -3255,8 +3161,6 @@ header .title-info  span {
 /*=======================================================
 			SHOP PAGES
 ========================================================*/
-.shop-page {
-}
 .shop-page .items .img {
 	position: relative;
 	overflow: hidden;
@@ -3445,7 +3349,6 @@ header .title-info  span {
 }
 .shop-side-bar .cate li span {
 	font-weight: bold;
-	float: right;
 }
 .shop-page .side-bar .media-body span {
 	display: inline-block;
@@ -3517,8 +3420,6 @@ header .title-info  span {
 .images-slide img {
 	width: 100%;
 }
-.carousel-inner>.item {
-}
 .images-slide .carousel-indicators img {
 	width: 100%;
 	margin: 0px;
@@ -3526,7 +3427,6 @@ header .title-info  span {
 .images-slide .carousel-indicators li {
 	height: auto;
 	width: 25%;
-	float: left;
 	background: none;
 	position: relative;
 }
@@ -3535,8 +3435,6 @@ header .title-info  span {
 }
 .images-slide .carousel-indicators .active img {
 	border: 2px solid #51a8da;
-}
-.images-slide .carousel-indicators li:nth-last-child(1) {
 }
 .single-item h4 {
 	font-weight: bold;
@@ -3622,7 +3520,6 @@ header .title-info  span {
 	font-weight: bold;
 }
 .single-item .color label {
-	float: left;
 	line-height: 30px;
 }
 .single-item .color span {
@@ -3631,7 +3528,6 @@ header .title-info  span {
 	background: #edecea;
 	display: inline-block;
 	border-radius: 50%;
-	float: left;
 	margin: 0 5px;
 }
 .single-item .color span:nth-child(1) {
@@ -3649,8 +3545,6 @@ header .title-info  span {
 	width: 100%;
 	padding-top: 50px;
 	border-top: 1px solid #f3f3f3;
-}
-.single-item .review-clients {
 }
 .single-item .tab-pane h6 {
 	margin-bottom: 30px;
@@ -3711,7 +3605,6 @@ header .title-info  span {
 	margin-top: 0px;
 }
 .single-item .comments .stars {
-	float: right;
 	margin-top: -20px;
 	color: #f4d03f;
 }
@@ -3835,8 +3728,6 @@ header .title-info  span {
 #counters ul {
 	text-align: center;
 }
-#counters ul li {
-}
 #counters ul li i {
 	color: #fff;
 	font-size: 39px;
@@ -3910,7 +3801,6 @@ header .title-info  span {
 	display: inline-block;
 	height: 60px;
 	width: 60px;
-	float: left;
 	overflow: hidden;
 }
 #testi-style-2 .carousel-indicators li {
@@ -4322,8 +4212,6 @@ footer .date {
 	text-align: right;
 	color: #757575;
 }
-footer h5 {
-}
 footer .small-info {
 	text-align: center;
 	border: 1px solid rgba(255,255,255,0.1);
@@ -4369,7 +4257,6 @@ footer form input {
 	height: 40px;
 	padding: 0 10px;
 	border: none;
-	float: left;
 	width: 70%;
 	font-size: 12px;
 	background: rgba(255,255,255,0.05);
@@ -4381,7 +4268,6 @@ footer form button {
 	background: none;
 	font-size: 14px;
 	color: #696969;
-	float: right;
 	width: 30%;
 	height: 40px;
 	display: inline-block;
@@ -4422,8 +4308,6 @@ footer .timing p span {
 /*=======================================================
 			Slider nav style
 ========================================================*/
-.owl-dots {
-}
 .owl-dots .owl-dot {
 	display: inline-block;
 }
@@ -4480,7 +4364,6 @@ footer .timing p span {
 .social_icons li {
 	display: inline-block;
 	list-style: none;
-	float: left;
 }
 .social_icons a {
 	display: block;
@@ -4693,7 +4576,11 @@ section .cards-logos .logo-item {
 	align-items: center;
 	margin: 15px;
 	justify-content: center;
+	border: 1px solid #0478be;
+	border-radius: 8px;
+	padding: 10px;
 }
+
 section .cards-logos .logo-item img {
 	max-width: 100%;
 	max-height: 80px;
