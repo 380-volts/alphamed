@@ -92,7 +92,7 @@
         <ul class="ownmenu ">
           <li><a href="index.php">Home</a></li>
           <li><a href="sobre.php">Quem somos </a></li>
-          <li><a href="consultas.php">Consultas </a></li>
+          <li><a href="consultas.php">Especialidades </a></li>
           <li><a href="exames.php">Exames </a></li>
           <li><a href="convenios.php">Convênios </a></li>
           <li><a href="">Blog</a></li>

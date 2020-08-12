@@ -17,7 +17,7 @@
 
   <section class="consultas">
     <div class="container">
-      <h2>Consultas</h2>
+      <h2>Especialidades</h2>
 
       <div class="cards">
         <div class="card-consulta">

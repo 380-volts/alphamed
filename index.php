@@ -121,7 +121,7 @@
                       <option>Cardiologia</option>
                       <option>Clínico Geral</option>
                       <option>Dermatologia</option>
-                      <option>Cirufgia Vascular</option>
+                      <option>Cirurgia Vascular</option>
                       <option>Endocrinologia</option>
                       <option>Endocrinologia Pediátrica</option>
                       <option>Gastroenterologia</option>
@@ -138,13 +138,8 @@
                   </li>
                   <li class="col-sm-6">
                     <select class="form-control selectpicker" name="select1" id="select1">
-                      <option selected>Médico</option>
-                      <option>Dental</option>
-                      <option>Cardiology</option>
-                      <option>For disabled</option>
-                      <option>Ophthalmology</option>
-                      <option>Emergency</option>
-                      <option>X-ray</option>
+                      <option selected disabled>Exame</option>
+                      <option>Bioimpedância</option>
                     </select>
                   </li>
                   <li class="col-sm-6">
